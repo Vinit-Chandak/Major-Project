@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "major-project-vinit",
+  "private_key_id": "1eb8b5bf89acb4ea3df9bc49b8d570492e6f2752",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwS6ynX/dFI1DW\nTs4xQQpU5nNmm7hxPKtSGklC9YbWlOO0jv0uSty/9Egh+tfHu2R5NXcVV1wrrpq1\nH7hTko1O4LMimhJMcGj94rCUFX/4FPRK50+ZHaMmW5QQwSz6OFTPk4XwEdCpBy1L\n3ZDAdYZiSA316PGqKeyTdoOv1JyW9qeSu8vgWsX7pRthUltThge+sYc7C4OdVbha\nO76L8tegwOQOgOoBnFq3rENn3j7mGPigwfNuZ7J4CUJOn1x2dg8my5ipXiKcxL08\nLaEGvh0/HqXq0MecCwZn5QmoalNanGeut31Qy/ICnVL3/sbTjh9ocAj57l1SYmKc\nmY5CyroDAgMBAAECggEAJ59idx3M++eDkB8XHZ/SHCHNVwbxrdWmZaYNyDRZsVm2\nUcr/YUunEKdtHOH9ZGEcJFfdY1kGmLS+Ba5S5cme49cBu+mn6jErj8BG0omAgPfo\nrfsN+0pbdFAJ17grDTPi7+JmrH28iXjY99+c3HytjuJF7PqFcirJBp2Q3FBrP0xh\n+gGAMLtH1Uw0K8mAfgHXxHyEKjTJSaTTmepqHSvMZ0paKieirg4dxVh2D6AZ3vP4\nuC7giLb4tnkhQIlclqjbSEpmgZTFW7Bu6FKKFJZvG//wDxX6N3C4SDEa/mRA1i8a\nUyyDd6uszOUfDuc3i4eQsSkZkRfIes47FcrWTY1v7QKBgQDZEVYDQyUd9MI594fS\nm7GeBlVUkHYg51hbetukOeaCY/LAyp2sOPzpCEBeGvMK9YqdZ9oEF/WU5OAXsg+H\nVGuMq8allEKpDeO+Sjs44TDibrR5af+4HGS7URr0UP9ZujmkzHvpduaUywfE3pGj\nfhghnsQLTWDeHXCg262XtYoB3wKBgQDP6klstEPJBYnlH8H1+BqqzYhpBMl7ha4E\nt2+JK1FzyA8JKQEPTB2MX36+/AvgpQidEp/qr9lNZ+MaeKTXyHcMod6NQLn9sODC\ncwMptN4c/bTYq4Bit0aRkRqMyUMIHSiSlGPe7hAlTd3owODxRCX+4zK3p64irHas\nR7SmORF0XQKBgQCgQFMuv2BkmDDX2K12R6k+T9CpSKldK04o4y/KM1DBDIbH3A3B\neqUEaSoUD3NEsPevs17ZzNJqJPpno/Yg46suxBY4YZdA9VcgQe8s09tiH3aveBjo\n1FVtkLgEjNOna3to9em49yXNzYIjzmjYuZuZHnv/GBYehL+Ekgm7SbPkIwKBgER3\nJRibv9qZbVA7BfcGbVmjdvEGN4bqfWRmN19XGWpkDbd5fjTYXr6Tz7v6abre/Zgj\nwu9YWtlnhVx5L+cyxykswImJL/X/YfQGRZtdSOsJDJ1w1EUtjxpuSuzjdaRdXbfv\nD3ggssZl/tYfdbNdOpnVnSTnHaujWSzgK/e0wS+tAoGBANOKGIL/bQ6YjNqmobRk\nmfscJUUtLuzngaX6BIGOB4sXhByJdlPytUVPme1WJHrKi03PJPS7S3lSO2kT4v6B\ncqjvRKzA3N7DY9kWzLHPByQPr4IqWx9BNUK5aiy2yDHtcZpuN53PmrgH5myfY6OL\nHvjaU5vYTupmvIYJ8jTapFOo\n-----END PRIVATE KEY-----\n",
+  "client_email": "major-project-iitd@major-project-vinit.iam.gserviceaccount.com",
+  "client_id": "103250493372755857526",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/major-project-iitd%40major-project-vinit.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
