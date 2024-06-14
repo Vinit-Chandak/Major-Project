@@ -11,7 +11,7 @@ LOCATION = "asia-southeast1"
 IMAGE_BUCKET_NAME = "test_bucket-iitd"
 JSON_FILE_PATH = "qa_pairs.json"
 GEMINI_PRO_VISION_API_ENDPOINT = "https://{asia-southeast1}-aiplatform.googleapis.com/v1/projects/{major-project-vinit}/locations/{asia-southeast1}/publishers/google/models/gemini-1.5-pro:streamGenerateContent"
-API_KEY = "AIzaSyBhFMWJ7x4-3dlAeBJcjgD1puMZKGEzMGE"
+API_KEY = ""
 
 # --------- Rate Limiting -----------
 TIME_BETWEEN_REQUESTS = 12  # Seconds (5 requests per minute)

@@ -9,7 +9,7 @@ LOCATION = "asia-southeast1"
 IMAGE_BUCKET_NAME = "test_bucket-iitd"
 JSON_FILE_PATH = "qa_pairs.json"
 OPENAI_API_ENDPOINT = "https://api.openai.com/v1/chat/completions"
-API_KEY = "sk-proj-OZ0oEYNJYG49SU8yr9hzT3BlbkFJS6Sqi3PJGzsXveUAILyk"
+API_KEY = ""
 
 # Rate Limiting
 TIME_BETWEEN_REQUESTS = 0  # Seconds
